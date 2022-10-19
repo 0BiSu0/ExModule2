@@ -1,4 +1,6 @@
-package ss4_classes_and_objects_in_java.excercise;
+package ss4_classes_and_objects_in_java.excercise.stop_watch;
+import ss4_classes_and_objects_in_java.excercise.stop_watch.StopWatch;
+
 import java.util.Arrays;
 public class TestStopWatch {
     public static void main(String[] args) {

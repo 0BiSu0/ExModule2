@@ -1,4 +1,4 @@
-package ss4_classes_and_objects_in_java.excercise;
+package ss4_classes_and_objects_in_java.excercise.quadratic_equation;
 public class XaydungQuadraticEquation {
     double a,b,c;
     public XaydungQuadraticEquation() {

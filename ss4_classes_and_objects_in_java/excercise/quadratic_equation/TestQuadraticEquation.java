@@ -1,4 +1,6 @@
-package ss4_classes_and_objects_in_java.excercise;
+package ss4_classes_and_objects_in_java.excercise.quadratic_equation;
+import ss4_classes_and_objects_in_java.excercise.quadratic_equation.XaydungQuadraticEquation;
+
 import java.util.Scanner;
 public class TestQuadraticEquation {
     public static void main(String[] args) {

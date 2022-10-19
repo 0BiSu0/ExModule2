@@ -1,4 +1,6 @@
-package ss4_classes_and_objects_in_java.excercise;
+package ss4_classes_and_objects_in_java.excercise.fan;
+
+import ss4_classes_and_objects_in_java.excercise.fan.Fan;
 
 public class TestFan {
     public static void main(String[] args) {
